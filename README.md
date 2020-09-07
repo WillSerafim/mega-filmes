@@ -1,4 +1,7 @@
 # mega-filmes
+Projeto criado para aprendizado de Vue.js
+
+![image](https://github.com/WillSerafim/mega-filmes/blob/master/src/assets/img/vue-mega-filmes.png?raw=true)
 
 ## Project setup
 ```
@@ -7,7 +10,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev
 ```
 
 ### Compiles and minifies for production
@@ -24,6 +27,3 @@ npm run test:unit
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
