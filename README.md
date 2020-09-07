@@ -1,7 +1,7 @@
 # mega-filmes
 Projeto criado para aprendizado de Vue.js
 
-![image](https://github.com/WillSerafim/mega-filmes/blob/master/src/assets/img/vue-mega-filmes.png?raw=true)
+![image](https://github.com/WillSerafim/mega-filmes/blob/master/src/assets/vue-mega-filmes.png?raw=true)
 
 ## Project setup
 ```
